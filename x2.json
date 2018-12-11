@@ -1,0 +1,108 @@
+{
+  "status": 200,
+  "msg": "修改成功",
+  "data": {
+    "error": 0,
+    "msg": {
+      "ItCode": "L20410",
+      "Result": true,
+      "Messages": [
+        "40.040701,116.312139",
+        "40.040704,116.312143",
+        "40.040715,116.312209",
+        "40.040705,116.312168",
+        "40.040712,116.312177",
+        "40.040718,116.312213",
+        "40.040699,116.312129",
+        "40.040705,116.312152",
+        "40.040702,116.312172",
+        "40.040702,116.312156",
+        "40.040693,116.312119",
+        "40.040659,116.31211",
+        "40.040723,116.312182",
+        "40.040717,116.31221",
+        "40.040638,116.311918",
+        "40.040638,116.311918",
+        "40.040638,116.311918",
+        "40.040638,116.311918",
+        "40.040543,116.312353",
+        "40.0372,116.320066",
+        "40.036845,116.323309",
+        "40.042635,116.322951"
+      ]
+    },
+    "order_info": {
+      "name": "朱洪岩",
+      "phone": "18246154893",
+      "station_phone": "18911777777",
+      "address": null,
+      "province": null,
+      "country": null,
+      "city": null,
+      "baidu_x": null,
+      "baidu_y": null,
+      "tencent_x": null,
+      "tencent_y": null
+    },
+    "infoList": {
+      "process_1": {
+        "SOID": 201704192100880000,
+        "StrSOID": "201704192100880001",
+        "SoStatusTime": "2017/4/19 14:12:26",
+        "SOStatusCode": "10",
+        "SOStatusName": "报修成功",
+        "Remaks": "您的产品报修成功",
+        "StationCode": "21008800",
+        "StationName": "系统测试站",
+        "StationTell": "18911777777",
+        "StationAddress": "海淀区上地五街联想大厦",
+        "SOCreateTime": "2017-04-19T14:12:26.96",
+        "StrSOCreateTime": "2017/4/19 14:12:26",
+        "ServiceCompleteTime": null
+      },
+      "process_15": {
+        "SOID": 201704192100880000,
+        "StrSOID": "201704192100880001",
+        "SOStatusCode": "15",
+        "SOStatusName": "待分配工程师",
+        "Remaks": "待分配工程师",
+        "SOCreateTime": "2017-04-19T14:12:26.96",
+        "StrSOCreateTime": "2017/4/19 14:12:26",
+        "ServiceCompleteTime": null
+      },
+      "process_2": {
+        "SOID": 201704192100880000,
+        "StrSOID": "201704192100880001",
+        "SoStatusTime": "2017/4/24 10:43:53",
+        "SOStatusCode": "20",
+        "SOStatusName": "工程师已出发",
+        "Remaks": "您的产品已分配工程师",
+        "SOCreateTime": "2017-04-19T14:12:26.96",
+        "StrSOCreateTime": "2017/4/19 14:12:26",
+        "ResponsibleEngineer": "L20410",
+        "PersonNameEngineer": "协调员",
+        "personTel": "13800000000",
+        "ServiceCompleteTime": null,
+        "SOExpectOnSiteTime": "2017-04-25 10:43:25",
+        "PositionStatus": "Yes",
+        "PositionList": []
+      },
+      "process_3": {
+        "SOCreateTime": "2017-04-19T14:12:26.96",
+        "SoStatusTime": "2017/4/19 14:12:26"
+      },
+      "process_4": {
+        "SOCreateTime": "2017-04-19T14:12:26.96",
+        "SoStatusTime": "2017/4/19 14:12:26"
+      },
+      "process_5": {
+        "SOCreateTime": "2017-04-19T14:12:26.96",
+        "SoStatusTime": "2017/4/19 14:12:26"
+      },
+      "process_6": {
+        "SOCreateTime": "2017-04-19T14:12:26.96",
+        "SoStatusTime": "2017/4/19 14:12:26"
+      }
+    }
+  }
+}
